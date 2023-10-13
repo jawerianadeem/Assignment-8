@@ -1,0 +1,36 @@
+.main{
+    border: 2px solid black;
+    width: 250px;
+    margin: 0 auto;
+    border-radius: 4px;
+
+}
+.result{
+    width: 97%;
+    background-color: whitesmoke;
+    color: black;
+    
+}
+
+.clearBtn{
+    width: 100%;
+    margin-top: 10px;
+    background-color: grey;
+}
+.btn{
+    background-color: gray;
+  width: 57px;
+  margin: 1px;
+
+}
+.halfBtn{
+    background-color: gray;
+    width: 49%;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+/* .clearEach{
+    background-color: gray;
+    width: 57px;
+    margin: 1px;
+} */
